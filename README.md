@@ -5,7 +5,7 @@ A **custom ServiceNow application** designed to digitalize core school operation
 ---
 
 ## 📹 Project Demo  
-👉 [Watch Demo Video](https://drive.google.com/your-video-link)  
+👉 [Watch Demo Video](https://drive.google.com/drive/folders/1W_JnOeTH7cB3QeFH7oPqz0oogsu0Y7Sl)
 *(or check `/demo/project-demo.mp4` if downloaded from repo)*  
 
 ---
@@ -78,7 +78,7 @@ A **custom ServiceNow application** designed to digitalize core school operation
 
 ## 👤 Author  
 
-**Jagadeesh S**  
-🎓 B.Tech CSE – 3rd Year, Srinivasa Ramanujan Institute of Technology  
+**Jagadeesh Sege**  
+🎓 B.Tech CSE – 4th Year, Srinivasa Ramanujan Institute of Technology  
 💡 Passionate about ServiceNow Development, Automation, and Business Workflow Design  
 
