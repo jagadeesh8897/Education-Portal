@@ -5,7 +5,7 @@ A **custom ServiceNow application** designed to digitalize core school operation
 ---
 
 ## 📹 Project Demo  
-👉 [Watch Demo Video](https://drive.google.com/drive/folders/1W_JnOeTH7cB3QeFH7oPqz0oogsu0Y7Sl)
+👉 [Watch Demo Video](https://drive.google.com/file/d/15uauWTWc3zbKG-tX2zSowRi3RaDGR_KY/view?usp=sharing)
 *(or check `/demo/project-demo.mp4` if downloaded from repo)*  
 
 ---
